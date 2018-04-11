@@ -1,0 +1,1 @@
+g++-7 *.cpp  -O3 -mavx2 -fopenmp -Wno-ignored-attributes -std=c++1z
